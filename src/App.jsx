@@ -24,7 +24,7 @@ const NavLink = (props) => (
       // anchor element's props
       return {
         style: {
-          color: isCurrent ? "red" : "blue",
+          color: isCurrent ? "red" : "black",
         },
       };
     }}
